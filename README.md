@@ -8,7 +8,7 @@ Grundet den fortsatte fjernundervisning har vi vurderet at vi opretholder den be
 
 Vi vil i den kommende uge holde to virtuelle sessions på Microsoft 365 Teams henholdsvis onsdag og fredag. Det vil her være muligt at tale omkring og spørge ind til de emner som er gennemgået i kurset og både Brian og Troels vil være tilstede på begge sessions.
 <br><br>
-Kurserne på Frontend Masters er normalt ikke gratis. Men I har blandte flere "værktøjer" **6 måneders gratis** adgang til Frontend Masters igennem vores partner aftale med Github. I finder kurset ved at følgende nedenstående step:<br>
+Kurserne på Frontend Masters er normalt ikke gratis. Men I har blandte flere tools **6 måneders gratis** adgang til Frontend Masters igennem vores partner aftale med Github. I finder kurset ved at følgende nedenstående step:<br>
 
 **Github education:**<br>
 https://education.github.com/<br>
