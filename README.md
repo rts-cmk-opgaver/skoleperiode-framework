@@ -7,27 +7,22 @@ Grundet den fortsatte fjernundervisning har vi vurderet at vi opretholder den be
 ## Frontend Measter
 
 Vi vil i den kommende uge holde to virtuelle sessions på Microsoft 365 Teams henholdsvis onsdag og fredag. Det vil her være muligt at tale omkring og spørge ind til de emner som er gennemgået i kurset og både Brian og Troels vil være tilstede på begge sessions.
-<br>
+<br><br>
 Kurserne på Frontend Masters er normalt ikke gratis. Men I har blandte flere "værktøjer" **6 måneders gratis** adgang til Frontend Masters igennem vores partner aftale med Github. I finder kurset ved at følgende nedenstående step:<br>
 
-1#<br>
-Github education:<br>
+**Github education:**<br>
 https://education.github.com/<br>
 
-2#<br>
-GitHub Student Developer Pack:<br>
+**GitHub Student Developer Pack:**<br>
 https://education.github.com/pack<br>
 
-#3<br>
-The tools:<br>
+**The tools:**<br>
 Vælg **Frontend Masters** fra listen<br>
 
-#4<br>
-Kurser:<br>
+**Kurser:**<br>
 Fra topnavigationen vælg **learn** herefter **React.js**<br>
 
-#5<br>
-React.js:<br>
+**React.js:**<br>
 Start med det første kursus **Complete Intro to React, v5**<br>
 Efterfulgt af de resterende 3.
 
