@@ -1,6 +1,6 @@
 # skoleperiode-framework
 
-![Frontend Masters ReactJS]( "Frontend Masters ReactJS")
+![Frontend Masters ReactJS](https://github.com/rts-cmk-opgaver/skoleperiode-framework/blob/master/frontendmasters.jpg "Frontend Masters ReactJS")
 
 I den kommende skoleperiode skal vi se nærmere på et JavaScript frontend **framework**. Vi har besluttet at **ReactJS** er det framework I i den kommende periode skal introduceres til og arbejde med. Vi har valgt ReactJS fordi det er det absolut mest populære blandt branchens bureauer. 
 <br><br>
