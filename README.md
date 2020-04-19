@@ -29,4 +29,4 @@ Start med det første kursus **Complete Intro to React, v5**<br>
 Efterfulgt af de resterende 3.
 
 ## Whats next?
-Vi er tilbage på skolen, vi har lært en masse. Planen er at vi skal bruge det vi har lært til at refactor hifi-cornor projektet, så at vi får en React udgave af jeres ynglingsprojekt! :)
+Vi er tilbage på skolen, vi har lært en masse. Planen er at vi skal bruge det vi har lært til at refactor hifi-cornor projektet, så I også har en React udgave af jeres ynglingsprojekt at vise frem i jeres portfolio :) 
