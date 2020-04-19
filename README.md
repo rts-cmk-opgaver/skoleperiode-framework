@@ -28,5 +28,5 @@ Fra topnavigationen vælg **learn** herefter **React.js**<br>
 Start med det første kursus **Complete Intro to React, v5**<br>
 Efterfulgt af de resterende 3.
 
-## Uge 18
+## Tirsdag d. 28 Aprilæ - Uge 18
 Vi er tilbage på skolen, vi har lært en masse. Planen er at vi skal bruge det vi har lært til at refactor hifi-cornor projektet, så I også har en React udgave af jeres ynglingsprojekt at vise frem i jeres portfolio :) 
