@@ -1,12 +1,12 @@
 # skoleperiode-framework
 
-I den kommende skoleperiode skal vi se nærmere på et JavaScript frontend **framework**. Vi har besluttet at **ReactJS** er det framework I i den kommende periode skal introduceres til og arbejde med. Vi har valgt ReactJS fordi det er det absolut mest populære blandt branchens bureauer. 
+I den kommende skoleperiode skal vi se nærmere på et JavaScript frontend **framework**. Vi har besluttet at **ReactJS** er det framework I i den kommende skoleperiode skal introduceres til. Vi har valgt ReactJS fordi det er det absolut mest brugte framework blandt branchens bureauer. 
 
 ![Frontend Masters ReactJS](https://github.com/rts-cmk-opgaver/skoleperiode-framework/blob/master/frontendmasters.jpg "Frontend Masters ReactJS")
 
 ## Frontend Measter
 
-Grundet den fortsatte fjernundervisning har vi vurderet at vi opretholder den bedste kvalitet og at I får den bedste introduktion til React, ved at benytte et krusus fra **Frontend Masters** som er udviklet netop til fjernundervisning. Emnerne der bliver gennemgået i de kurser I skal tage er de samme, pluds lidt ekstra, som vi ellers ville have gennemgået med jer under normale omstændigheder. Det er **målet** at de sammenlagt små 18 timers kursus er gennemgået og de relaterede opgaver løst når vi **tirsdag d. 28 April** er tilbage på skolen igen.
+Grundet den fortsatte fjernundervisning har vi vurderet at vi opretholder den bedste kvalitet og at I får den bedste introduktion til React, ved at benytte et krusus fra **Frontend Masters** som er udviklet netop til fjernundervisning. Emnerne der bliver gennemgået i de kurser I skal tage er de samme, som vi ellers ville have gennemgået med jer under normale omstændigheder. Det er **målet** at de sammenlagt små 18 timers kursus er gennemgået og de relaterede opgaver løst når vi **tirsdag d. 28 April** er tilbage på skolen igen.
 <br><br>
 Vi vil i den kommende uge holde to virtuelle sessions på Microsoft 365 Teams henholdsvis **onsdag kl. 10:15** og **fredag kl. 9:00**(Invitation kommer på Slack). Det vil her være muligt at tale omkring og spørge ind til de emner som er gennemgået i kurset og både Brian og Troels vil være tilstede på begge sessions.
 <br><br>
